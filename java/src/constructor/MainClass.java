@@ -17,8 +17,7 @@ public class MainClass {
 
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub ty
-		 
+		// TODO Auto-generated method stub
 		
 		MainClass Obj = new MainClass((1996), "Vicky");     // Create an object of class Main (This will call the constructor)
 		System.out.println(Obj.Name+": "+Obj.BrithYear);
