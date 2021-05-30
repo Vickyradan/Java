@@ -6,7 +6,7 @@ public class Bmw extends Car {
 		// TODO Auto-generated method stub
 		Bmw bmw = new Bmw();
 		bmw.Engine();
-		System.out.println(bmw.wheels);
+		System.out.println(bmw);
 	
 	}
 
