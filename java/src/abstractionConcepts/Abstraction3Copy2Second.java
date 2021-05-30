@@ -6,7 +6,7 @@ public class Abstraction3Copy2Second {
 		// TODO Auto-generated method stub
 		
 		Bio Obj = new Bio();
-		System.out.println("Nmae: "+ Obj.Name);
+		System.out.println("Name: "+ Obj.Name);
 		System.out.println("Age: "+ Obj.Age);
 
 	}
