@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Orange HRM Project]">
+  <test name="Test Recruitment candidates list(failed)">
+    <classes>
+      <class name="TestCase.CandidateList">
+        <methods>
+          <include name="Candidate"/>
+        </methods>
+      </class> <!-- TestCase.CandidateList -->
+      <class name="TestCase.EmployeeTracker">
+        <methods>
+          <include name="CloseBrowser"/>
+          <include name="OpenBrowser"/>
+        </methods>
+      </class> <!-- TestCase.EmployeeTracker -->
+    </classes>
+  </test> <!-- Test Recruitment candidates list(failed) -->
+  <test name="Test performance Employee Tracker(failed)">
+    <classes>
+      <class name="TestCase.EmployeeTracker">
+        <methods>
+          <include name="CloseBrowser"/>
+          <include name="OpenBrowser"/>
+          <include name="EmployeeTracker"/>
+        </methods>
+      </class> <!-- TestCase.EmployeeTracker -->
+    </classes>
+  </test> <!-- Test performance Employee Tracker(failed) -->
+</suite> <!-- Failed suite [Orange HRM Project] -->

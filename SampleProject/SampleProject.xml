@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Orange HRM Project">
+	<test name="Test Recruitment candidates list">
+		<classes>
+			<class name ="TestCase.CandidateList"></class>
+		</classes>
+	</test>
+	<test name ="Test performance Employee Tracker">
+		<classes>
+			<class name ="TestCase.EmployeeTracker"></class>
+		</classes>
+	</test>
+</suite>

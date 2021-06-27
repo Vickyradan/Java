@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Orange HRM Project" duration-ms="21962" started-at="2021-06-05T06:15:03Z" finished-at="2021-06-05T06:15:25Z">
+    <groups>
+    </groups>
+    <test name="Test Recruitment candidates list" duration-ms="18762" started-at="2021-06-05T06:15:03Z" finished-at="2021-06-05T06:15:22Z">
+      <class name="TestCase.CandidateList">
+        <test-method status="PASS" signature="Candidate()[pri:0, instance:TestCase.CandidateList@1f2a7d5]" name="Candidate" duration-ms="18660" started-at="2021-06-05T11:45:03Z" finished-at="2021-06-05T11:45:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Candidate -->
+      </class> <!-- TestCase.CandidateList -->
+    </test> <!-- Test Recruitment candidates list -->
+    <test name="Test performance Employee Tracker" duration-ms="2047" started-at="2021-06-05T06:15:23Z" finished-at="2021-06-05T06:15:25Z">
+      <class name="TestCase.EmployeeTracker">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:TestCase.EmployeeTracker@107ec20]" name="OpenBrowser" is-config="true" duration-ms="25708" started-at="2021-06-05T11:44:38Z" finished-at="2021-06-05T11:45:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="EmployeeTracker()[pri:0, instance:TestCase.EmployeeTracker@107ec20]" name="EmployeeTracker" duration-ms="2044" started-at="2021-06-05T11:45:23Z" finished-at="2021-06-05T11:45:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmployeeTracker -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:TestCase.EmployeeTracker@107ec20]" name="CloseBrowser" is-config="true" duration-ms="2287" started-at="2021-06-05T11:45:25Z" finished-at="2021-06-05T11:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- TestCase.EmployeeTracker -->
+    </test> <!-- Test performance Employee Tracker -->
+  </suite> <!-- Orange HRM Project -->
+</testng-results>
