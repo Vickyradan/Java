@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19486" started-at="2021-06-22T17:53:55Z" finished-at="2021-06-22T17:54:15Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19486" started-at="2021-06-22T17:53:55Z" finished-at="2021-06-22T17:54:15Z">
+      <class name="sampletest.FundamentalRights_TestCase">
+        <test-method status="PASS" signature="OpenBrowser()[pri:0, instance:sampletest.FundamentalRights_TestCase@1474c6c]" name="OpenBrowser" is-config="true" duration-ms="18361" started-at="2021-06-22T23:23:37Z" finished-at="2021-06-22T23:23:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="FundamentalRights()[pri:0, instance:sampletest.FundamentalRights_TestCase@1474c6c]" name="FundamentalRights" duration-ms="19465" started-at="2021-06-22T23:23:55Z" finished-at="2021-06-22T23:24:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FundamentalRights -->
+      </class> <!-- sampletest.FundamentalRights_TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
