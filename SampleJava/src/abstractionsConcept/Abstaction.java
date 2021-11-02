@@ -26,6 +26,7 @@ public class Abstaction {
 	System.out.println("Brand Name: "+obj.Brand);
 	System.out.println("How Many Wheels: "+ obj.Wheels);
 	System.out.println("Car Type: "+obj.Type);
+		System.out.println("Car "+obj.Type);
 	
 	}
 
